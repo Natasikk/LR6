@@ -62,3 +62,13 @@
 
 ### 13. Создание ветки для отчёта
 ![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/22.jpg)
+
+### 14. История операций
+![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/23.jpg)
+![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/24.jpg)
+
+### 15. Загрузка изменений в удалённый репозиторий
+![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/25.jpg)
+
+## Вывод
+В ходе данной лабораторной работы были изучены базовые возможности системы управления версиями и был получен опыт работы с Git Api, локальным и удаленным репозиторием.
