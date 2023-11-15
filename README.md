@@ -22,31 +22,31 @@
 ![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/7.jpg)
 
 ### 7. История операций для каждой из веток
-Ветка master
+Ветка master \
 ![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/8.jpg)
 
-Ветка branch1
+Ветка branch1 \
 ![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/9.jpg)
 
 ### 8. Последние изменения
-Ветка master 
+Ветка master \
 ![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/10.jpg)
 
-Ветка branch1
+Ветка branch1 \
 ![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/11.jpg)
 
 ### 9. Слияние в ветку master, разрешение конфликта
-Слияние
+Слияние \
 ![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/12.jpg)
 ![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/13.jpg)
 
-Файл до разрешения конфликта
+Файл до разрешения конфликта \
 ![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/14.jpg)
 
-Файл после разрешения конфликта
+Файл после разрешения конфликта \
 ![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/15.jpg)
 
-Подтверждение изменений
+Подтверждение изменений \
 ![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/16.jpg)
 
 ### 10. Удаление побочной ветки
