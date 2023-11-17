@@ -43,8 +43,12 @@
 Файл до разрешения конфликта \
 ![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/14.jpg)
 
+Конфликт возник из-за того, что ветки содержали в себе два отличающихся друг от друга файла.
+
 Файл после разрешения конфликта \
 ![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/15.jpg)
+
+Конфликт был разрешён путём удаления лишних строк в файле.
 
 Подтверждение изменений \
 ![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/16.jpg)
@@ -63,7 +67,7 @@
 ### 13. Создание ветки для отчёта
 ![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/22.jpg)
 
-### 14. История операций
+### 14. История операций в форматировнном виде
 ![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/23.jpg)
 ![изображение](https://github.com/Natasikk/LR6/blob/Report/Images/24.jpg)
 
